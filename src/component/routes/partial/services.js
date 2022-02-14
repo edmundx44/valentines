@@ -16,10 +16,10 @@ export default class Services extends Component {
           <div className="container-fluid">
             <p className={`ppp-1 dss-fluid-title 1 animate-dss-fluid-head-text'}`}>Aking Tahanan</p>
             <p className={`ppp-2 dss-fluid-txt 1 animate-dss-fluid-head-text}`}>
-              To my cute little babi hihihi thank you for coming into my life, for being my tahanan, walo ko nag
+              To my cute little babi hihihi wala ko nag expect ni abot kag pinakalit sa ako a well thank you for coming into my life, for being my tahanan, wala ko nag
               dahom that i needed someone like u kai i've always chosen to be alone sa tuwing nakakabati tag kakapoy ikaw
               lang akong gusto kung makausap kasi dama naku yung payapa sa akong kaugalingon at ikaw yung nagiging pahingahan ko sa 
-              napapagod na mundo.
+              nakakapagod na mundo.
               <div className="sss-1"></div>
               <span className="sss-2"></span>
             </p>
