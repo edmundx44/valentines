@@ -14,11 +14,13 @@ export default class Services1 extends Component {
             </p>
           </div>
           <div className="container-fluid">
-            <p className={`dss-fluid-title 1 animate-dss-fluid-head-text'}`}>Zenneth Janer</p>
-            <p className={`dss-fluid-txt 1 animate-dss-fluid-head-text}`}>
-               Kang Zenneth gwapa na message
-                <span></span>
-                <span></span>
+            <p className={`ppp-1 dss-fluid-title 1 animate-dss-fluid-head-text'}`}>Z|F</p>
+            <p className={`ppp-2 dss-fluid-txt 1 animate-dss-fluid-head-text}`}>
+               Pinapangako ko bi habang naa paka sa ako a hindi ako magsasawa, hindi ako mapapagod
+               mag hulat sa imo, mananatili parin akong sayong-sayo og higit sa lahat ipaparamdam
+               naku sa imoha kung gaano ka ka importante sa buhay ko
+                <div className="sss-1">Ingat ka always diha babi</div>
+              <span className="sss-2">😘😘mwah mwah !! hihihi</span>
             </p>
           </div>
         </div>

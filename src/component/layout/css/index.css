@@ -164,6 +164,29 @@ body,
 .div-contact-sec-5 .contact-form .p-mm{
   text-transform: uppercase;
 }
+
+.div-services-sec-2 .ppp-1,
+.div-services-sec-3 .ppp-1{
+  font-weight: 700 !important;
+  font-size: 3rem !important;
+  color: #ffffff !important;
+  font-family: Lucida Handwriting, Tahoma, sans-serif;
+}
+
+.div-services-sec-2 .ppp-2,
+.div-services-sec-3 .ppp-2{
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  letter-spacing: 1px;
+}
+
+.div-services-sec-2 .container-fluid,
+.div-services-sec-2 .container-fluid,
+.div-services-sec-3 .container-fluid,
+.div-services-sec-3 .container-fluid{
+  
+}
+
 .div-services-sec-2 .dss-fluid-title,
 .div-services-sec-2 .dss-fluid-txt,
 .div-services-sec-3 .dss-fluid-title,
@@ -262,7 +285,8 @@ body,
 
 /** div-banner-sec-1 Section 1 -----------------------------------------------> **/
 .div-banner-sec-1 {
-  background-image: url('../img/valentine_2.jpg');
+  background:rgba(0, 0, 0, 0.1)  url('../img/valentine_2.jpg');
+  background-blend-mode: darken;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -432,7 +456,8 @@ body,
 }
 .div-services-sec-2 .container-fluid,
 .div-services-sec-3 .container-fluid {
-  background-image: url('../img/valentine_1.jpg');
+  background:rgba(0, 0, 0, 0.4) url('../img/valentine_1.jpg');
+  background-blend-mode: darken;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -442,7 +467,7 @@ body,
 }
 
 .div-services-sec-3 .container-fluid {
-  background-image: url('../img/valentine_1.jpg');
+  background:rgba(0, 0, 0, 0.4) url('../img/valentine_1.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: right;
@@ -453,9 +478,7 @@ body,
 
 .div-services-sec-3 .dss-fluid-title,
 .div-services-sec-2 .dss-fluid-title {
-  font-size: 27px;
-  font-weight: 500;
-  margin-top: 50px;
+  /* margin-top: 50px; */
 }
 .animate-dss-fluid-head-text{
   margin-left: -50% !important;

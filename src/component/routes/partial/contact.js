@@ -10,8 +10,11 @@ export default class Contact extends Component {
         <div className="container">
           <img className="dcs-titleImg" src={titleImg} alt="Explore" />
           <p className="dcs-heading"></p>
-          <p className="dcs-text">Happy Valentine's Day to the most special person in my life</p>
-          <p className="p-footer text-center">Template Made by: Herpaul Sajulan | Developer | Test | Edmund Franz Abao</p>
+          <p className="dcs-text">I look at you and i do not see an end.</p>
+          <p className="dcs-text">only us, beginning and beginning again.</p>
+          <p className="dcs-text text-center">---This is forever---</p>
+          <p className="dcs-text">💖💖 Happy Valentine's Day 💖💖</p>
+          <p className="p-footer text-center">Template Made by: Herpaul Sajulan | Developer | Mod | Edmund Franz Abao</p>
         </div>
       </div>
     );
